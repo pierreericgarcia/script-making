@@ -1,5 +1,3 @@
-LES MOTS 📖
-
 - Métaphysique : Réflexion rationnelle sur les idées transcendantales
 - Ontologie : Sous-domaine de la métaphysique qui s’intéresse a l’essence de l’être
 - Évanescent : Qui s’amoindrit et disparaît graduellement
@@ -70,7 +68,8 @@ LES MOTS 📖
 - Bas-relief : Ouvrage de sculpture en faible saillie sur fond uni
 - Haut-relief : Ouvrage de sculpture en forte saillie sur fond uni
 - Architecture cyclopéenne : Architecture primitive consistant à entasser des pierres grossièrement pour former un mur, un barrage etc…
-- Monolithe : Bloc de pierre massif constitué d’un seul élément
+- Monolithe (nom) : Formation géologique constituée d’un seul bloc massif de pierre
+- Monolithique (adjectif) : Décrit quelque chose caractérisé par son unité, sa solidité et son homogénéité
 - Limon : Mélange de terre et de débris organique qu’on trouve au fond des étangs
 - Levantin : Habitant du Moyen-Orient (de là où le soleil se lève)
 - Squameux : Écailleux 
@@ -107,7 +106,7 @@ LES MOTS 📖
 - Sempiternel : Continuel et lassant
 - Existentialisme : Doctrine philosophique disant que les actions ont un rôle sur le destin, en opposition au déterminisme
 - Exégèse : Interprétation d’un texte dont le sens est obscur
-- Obédience : Obéissance a une puissance spirituelle
+- Obédience : Obéissance à un supérieur religieux
 - Scabreux : Embarrassant, délicat
 - Élucubration: Théorie laborieuse et peu sensée
 - Prédicat : Ce qui dans un énoncé est affirmé à propos d’un autre terme (Les cygnes sont blancs, cygnes = sujet, sont blancs = prédicat)
@@ -147,7 +146,7 @@ LES MOTS 📖
 - Onomastique : Étude des noms propre
 - Hardeur : Acteur de film X
 - Arcadie : Terre pastorale idyllique et harmonieuse
-- Ignominie : Caractère de ce qui déshonore
+- Ignominie : Déshonneur extrême
 - Prophylactique : Qui prévient la maladie
 - Atavisme : Hérédité des caractères physiques et psychologiques
 - Saynète : Courte pièce comique avec peu de personnages
@@ -204,7 +203,7 @@ LES MOTS 📖
 - Émaillé : Qui est recouvert d’émail. Utilisé aussi pour parler de qqch qui contient des détails remarquables
 - Orner : Mettre en valeur qqch, par des ajouts décoratifs
 - Feston : De l’italien festone « Ornement de fête » (en général des branches, des fleurs, des fruits)
-- Lénifiant : Apaisant, qui endort la vigilance
+- Lénifiant : Qui soulage la douleur ou la souffrance
 - Fatuité : Satisfaction de soi-même, étalée d’une manière desagréable
 - Galvauder : Détériorer quelque chose par un mauvais usage
 - Marotte : Goût obsessionnel pour quelque chose
@@ -390,6 +389,7 @@ LES MOTS 📖
 - Contrefait : Qui est difforme (en plus du sens habituel de contrefaçon)
 - Rouet : Machine à roue mue par une pédale et servant à filer
 - Éxègese : Explication, commentaire, interprétation d’un texte ancien et compliqué
+- Exégète : Celui qui s’occupe d’exégèse
 - Coït : Union sexuelle
 - Nimbe : Halo ou flou qui entoure une personne ou une chose (ex : auréole)
 - Hèler : Appeler de loin
@@ -534,3 +534,281 @@ LES MOTS 📖
 - Hoirie : Héritage (Vieux)
 - Âcre : Quelque chose de piquant ou irritant
 - Âpre : Qui par son âcreté ou sa rudesse provoque une sensation désagréable
+- Berlingot : Bonbon triangulaire ou conditionnement de forme triangulaire pour les liquides
+- Bellement : Doucement, avec modération
+- Baril : Contenant cylindrique
+- Tonneau : Baril en bois spécifique au vin
+- Barillet : Petit baril
+- Cannetille : Fil de métal très fin utilisé en broderie
+- Un nécessaire : Bagage contenant le nécessaire pour faire quelque chose
+- Fourbu : Cheval souffrant de fourbure
+- Fourbure : Chez les chevaux, inflammation des tissus mous du pied
+- Emboiser : Manipuler quelqu’un par des flatteries
+- Facétieux : Plein de facétie
+- Facétie : Plaisanterie peu subtile destinée à faire rire
+- Aphorisme : Formule courte énonçant une vérité générale
+- Apophthegme : Aphorisme prononcé par un personnage illustre
+- Maxime : Formule courte énonçant une règle de conduite ou une règle morale
+- Crêpe : Étoffe claire, légère et frisée
+- Répudier : Rejeter dans un contexte formel ou légal
+- Apostasie : Abandon public d’une religion ou d’une croyance
+- Liard : Ancienne monnaie de cuivre valant un quart de sou
+- Volige : Fine planche de bois intervenant dans la charpente
+- Sempiternel : Continuel et lassant
+- Saphique : Relatif à l’homosexualité féminine
+- Velléité : Envie faible de faire quelque chose pas forcément suivie d’un acte
+- Anxiolytique : Propre à combattre l’anxiété
+- Catatonie : Désordre psychiatrique où l’on alterne entre inactivité totale et activité violente
+- Derviche-tourneur : Danse rituelle où on tourne sur soi-même
+- Quid : Qu’en est-il ?
+- Ithyphallique : Relatif au penis en érection
+- Protêt : Acte par lequel un huissier de justice constate le non-paiement d’une échéance
+- Feu : Défunt depuis peu
+- Apurer : Vérifier la véracité d’un compte
+- Atrides : Dans la mythologie grecque, famille royale ayant prit la ville de Troie
+- Linotte : Nom vernaculaire de plusieurs petits oiseaux siffleurs (sot, étourdi au figuré)
+- Vernaculaire : Propre à un pays, une région ou à ses habitants
+- Nom vernaculaire : Nom d’une espèce végétale ou animale dans un pays en question (en opposition à son scientifique)
+- Langue vernaculaire : Langue communément parlé au sein d’une communauté (opposé aux langues véhiculaires comme l’anglais ou le latin par exemple)
+- Jarret : Partie du corps situé derrière le genou
+- Serpe : Outil agricole à lame large et courbé à l’extrémité (ressemble à un sabre)
+- Serpette : Petite serpe
+- Gousset : Petite bourse
+- Étrennes: Cadeaux qu’on fait au jour de l’an
+- Margoulette : Mâchoire (Familier)
+- Reclus : Personne qui vit retiré du monde
+- Réclusion : État d’une personne reclus
+- Liturgie : Ensemble des cérémonies et des prières qui constitue le service divin (le système cérémonial)
+- Vêpre : Le soir (comme vespéral qui veut dire « à rapport au soir »)
+- Vêpres : Messes de fin d’après-midi dans la liturgie chrétienne
+- Grès : Roche formée par l’agrégation de grains de sable
+- Lazzi : De l’italien « blagues »
+- Réprimer : Empêcher quelque chose de se développer
+- Sévir : Réprimer avec rigueur
+- Sévices : Mauvais traitements exercés sur quelqu’un qu’on a sous notre autorité
+- Indivision : Un bien appartient à plusieurs personne, sans qu’on puisse le diviser physiquement en plusieurs parts
+- Licitation : Vente juridique d’un bien commun pour sortir d’une indivision
+- Monomanie : Trouble mental dans lequel une seule idée semble absorber toutes les facultés intellectuelles
+- Spoliation : Déposséder quelqu’un par violence ou par fraude
+- Breloque : Petit objet de fantaisie pouvant avoir un rôle symbolique
+- Vase : Récipient haut et étroit
+- Vasque : Récipient large et peu profond
+- Bénitier : Vasque destiné à contenir l’eau bénite
+- Arrérages : Impayés d’une rente
+- Chaise à patins : Chaise dont les pieds avant sont prolongés en arrière, formant une sorte de luge
+- Viager : Qui a la durée de la vie
+- Saumure : Solution saline utilisée pour conserver des aliments
+- Textile : Matériau susceptible d’être tissé ou tricoté
+- Étoffe : Matière textile servant à l’habillement ou à l’ameublement
+- Bourre : Partie la plus grossière d’une étoffe
+- Ouate : Bourre préparée pour garnir vêtements, literie ou sièges
+- Bahut : Buffet rustique large et bas
+- Chambellan : Gentilhomme de la cour chargé du service de la chambre d’un souverain
+- Dame d’atour : Styliste de la reine
+- Badiner : Plaisanter avec enjouement
+- Jonc : Plante à tiges droites et flexibles, croissant au bord de l’eau
+- Acabit : Décrit la nature d’une chose (bonne ou mauvaise)
+- Greffage : Technique agricole consistant à joindre une partie d’une plante (scion) à une autre plante (porte-greffe) afin qu’elles fusionnent et grandissent ensemble
+- Scion : Partie supérieure d’une greffe généralement choisie pour des caractéristiques comme la qualité des fruits, des fleurs ou du feuillage
+- Porte-Greffe : Partie inférieure d’une greffe généralement choisie pour sa robustesse
+- Enter : Greffer une plante en lui insérant un scion (au figuré, lier, attacher, joindre)
+- Baptême de la ligne : Fête organisée dans un bateau à l’occasion du passage de l’équateur
+- Curée : Portion de la bête qu’on donne aux chiens après sa prise
+- Âpre à la curée : Être avide de butin (parce qu’on a été pénible lors de la distribution de la curée)
+- Flavescent : Qui tire sur le jaune
+- Sinécure : Place ou titre produisant salaire et n’obligeant à aucun travail
+- Angarie : Réquisition, par un État en guerre, des navires neutres se situant dans ses eaux territoriales
+- Angarier : Vexer, tourmenter (meme dérivation sémantique que pour charrier)
+- Inextricable : Qu’on ne peut démêler
+- Ouaille : Originairement « brebis », puis à fini par designer les chrétiens par rapport à leur supérieur spirituel
+- Faire antichambre : Patienter longtemps dans une chambre à part jusqu’au moment où le maître de maison veuille bien recevoir ses invités
+- Pairie : Groupe de nobles jouissant de certains droits, les droits différents selon les pays et les époques
+- Hydroponie : Technique consistant à faire pousser des plantes sans terre
+- À la cantonade : Parler sans s’adresser à un interlocuteur précis
+- Chuintement : Cri de la chouette, mais au figuré, sifflement assourdi
+- Palan : Assemblage de poulies et de cordages servant à soulever de pesant fardeaux
+- Fret : Peut designer le prix du transport d’une cargaison ou la cargaison en elle-même
+- Camus : Qui a le nez court et aplati
+- Panonceau : Petit panneau
+- Frondaison : Feuillage des arbres
+- Cauteleux : Qui manifeste une prudence mêlée de ruse
+- Vocifération : Parole bruyante, prononcée dans la colère
+- Vrombir : Produire un sifflement ou un bourdonnement a cause d’une agitation ou d’une rotation très rapide (comme un moteur ou les ailes d’un insecte)
+- Chiquenaude : Coup donné avec un doit replié contre le pouce et qu’on détend brusquement
+- Infrangible : Qui ne peut être brisé
+- Préliminaire : Qui sert d’introduction et à préparer la suite
+- Liminaire : Qui sert d’introduction
+- Potentat : Celui qui a la souveraineté absolu dans un grand État
+- Fantoche : Qualifie une chose manipulée
+- Tonnage : Capacité de transport (évalué en tonneaux)
+- Sardonique : D’une plante nommée sardonia, créant un rictus malsain sur le visage de celui qui la consomme. Moquerie amère, froide et méchante
+- Péremptoire : Contre quoi il n’y a rien à répliquer
+- Flibustier : Membre d’une association de pirate qui au XVII et XVIII courrait les mers d’Amérique
+- Chamarre : Broderie, ornement
+- Nacre : Revêtement intérieur, aux reflets irisés, de certaines coquilles de mollusques
+- Nacré : Qui a l’apparence et l’éclat de la nacre
+- Prostration : État de faiblesse physique et psychologique extrême
+- Liesse : Joie collective
+- Lenticulaire : Qui a la forme d’une lentille
+- Oint : Qui a reçu une onction
+- Onction : Action de frotter doucement une partie du corps avec une substance grasse huileuse (Berne oindre)
+- Chenu : Qui a les cheveux blanchis par la vieillesse
+- Séide : Fanatique aveuglement dévoué à une cause, un parti ou un chef
+- Avarie : Dommage survenu à un navire ou à la cargaison qu’il transporte
+- Amphibologie : Construction grammaticale permettant à une phrase d’avoir deux sens différents
+- Consubstantiel à : Inséparable de
+- Rasoir D’Ockham : Principe philosophique arguant que l’explication la plus simple est la meilleure
+- Contrepoint : Ce qui contraste avec quelque chose et rend l’ensemble plus équilibré (« la fraîcheur du vent offre un agréable contrepoint à la chaleur du soleil »)
+- Philosophème : Une proposition donnée au sein d’un système philosophique
+- Science : Système de connaissances (par opposition à leur simple juxtaposition)
+- Analogie : Ressemblance constatée entre deux choses différentes qui ne sont toutefois pas identiques
+- Hâbler : Tenir des discours plein d’exagération, d’emphase et de vantardise
+- Hypocondrie : Crainte excessive de la maladie
+- Aigri : Que les déceptions ont rendu irritable
+- Phtisie : Vieux nom de la tuberculose pulmonaire
+- Corolaire : Énonce directement déduit d’un autre déjà prouvé ou admis
+- Subreption : Obtention d’une grâce suite à un faux exposé
+- Ex professo : Parler d’une chose en homme instruit
+- Cocasse : Qui est d’une étrangeté comique
+- Monologue : Long discours prononcé par un personnage adressé à un autre personnage ou un public
+- Soliloque : Long discours qu’un personnage prononce pour lui-même
+- Portefaix : Personne qui faisait métier de porter des fardeaux
+- Morgue : Arrogance agressive et active
+- Rogue : Attitude hautaine distante et passive
+- Rouan : Se dit d’un cheval dont la robe est mêlée de poils roux blancs et noirs
+- Balalaïka : Guitare triangulaire populaire en Russie
+- Souquenille : Longue blouse de toile portée par les professionnels d’un métier équestre
+- Rosse : Mauvais cheval, vieux ou faible (connotation péjorative)
+- Bai : Cheval dont la robe est d’un brun rouge
+- Sarafane : Robe traditionnelle russe (robe des poupées russe)
+- Verroterie : Verre coloré et travaillé dont on fait des bijoux ou des ornements
+- Ruer : S’élancer avec violence
+- Haridelle : Cheval en mauvais état physique (connotation triste)
+- Cacochyme : En mauvais état, fortement dégradé
+- Casuistique : Méthode utilisée pour résoudre des questions pratiques en opposant règles générales et particularités du cas (souvent utilisé en théologie morale)
+- Maroquin : Peau de chèvre ou de mouton, teinte et tannée
+- Pusillanime : Qui manque de courage et de caractère
+- Vétille : Chose sans importance
+- Cuveau : Petite cuve dans laquelle s’opère une tâche
+- Moujik : Paysan russe
+- Crâne : Personne qui affecte la bravoure
+- Cocarde : Insigne circulaire aux couleurs d’un pays, d’une armée ou d’un groupe
+- Impudence : Qui manque de pudeur, effronterie
+- Turpitude : Action honteuse
+- Avoir la berlue : Voir les choses de travers, juger faussement
+- Pudibonderie : Pudeur exagérée jusqu’au ridicule
+- Amphitryon : Hôte offrant à manger
+- Cossu : Qui a beaucoup de cosses (riche, aisé)
+- Bévue : Erreur grossière commise par inadvertance ou ignorance
+- Samovar : Ustensile domestique pour faire bouillir le thé en Russie
+- Crinoline : Armature servant à rendre les jupes bouffantes (c’était la mode au XIX)
+- Mantille : Fichu de soie ou de dentelle généralement porté par les espagnoles pour se couvrir la tête
+- Sarrau : Blouse de travail en grosse toile, courte et ample
+- Semonce : Avertissement mêlé de reproches
+- Moribond : Qui est près de mourir
+- Objurgations : Paroles pressantes visant à dissuader quelqu’un de faire quelque chose
+- Capillarité : Phénomène physique, confiné dans un petit espace, un liquide aura tendance à monter
+- Capirote : Chapeau haut et pointu (c’est celui du Ku Kux Klan)
+- Carotide : Artère située dans le cou, apportant le sang au cerveau
+- Quidam : Personne inconnue, dont on ne peut citer le nom
+- Acrimonie : Agressivité verbale due à une mauvaise humeur
+- Syntagme : En linguistique c’est une unité syntaxique composé de plusieurs mots
+- Mélanine : Résine plastique thermodurcissable
+- Tauromachie : Art de combattre les taureaux dans l’arène
+- Bronca : En tauromachie, concert de huées du public
+- Anthracite : Variété de charbon donnant son nom à une couleur
+- Pacte faustien : Accord dans lequel quelqu’un abandonne ses valeurs morales ou spirituelles pour la richesses ou des bénéfices terrestres
+- Piétisme : Secte protestante mettant plus l’accent sur la piété personnelle que sur la stricte orthodoxie à la doctrine
+- Grimer : Maquiller caricaturalement un visage pour le théâtre ou le cinéma
+- Conciliabule : Conversation où l’on chuchote comme pour se confier des secrets
+- Okapi : Animal à mi-chemin entre la biche et le zèbre
+- Guilleret : Manifestant une gaieté vive et insouciante
+- Bifide : Qui est en partie fendu en deux
+- Thrombolyse : Consiste à désagréger les caillots sanguins obstruant les vaisseaux, par voie médicamenteuse
+- Thrombectomie : Opération chirurgicale visant à retirer un caillot sanguin
+- Glycémie : Taux de glucose dans le sang
+- Brame : Cri du cerf en rut
+- Réminiscence : Souvenir revenant spontanément à l’esprit
+- Violacé : Qui tire sur le violet
+- Suaire : Linceul
+- Psalmodie : Technique vocale consistant à réciter un texte sur une seule note
+- Prescience : Faculté de devenir intuitivement les événements à venir
+- Balistique : Science du mouvement des projectiles
+- Crédence : Buffet, console servant à déposer des plats ou des verres dans une salle à manger
+- Préraphaélisme : Mouvement artistique née au XIX en Angleterre prenant pour maîtres les prédécesseurs de Raphaël
+- Trêve des confiseurs : Période du 24 Décembre au 1 Janvier (Trêve de l’activité politique au profit des confiseurs)
+- Rythme nycthéméral : Alternance d’états physiologiques (faim, éveil, fatigue…) d’une durée de 24 heures présidé par notre horloge interne et influencé par les signaux externes
+- Orgastique : Relatif à l’orgasme
+- Râtelier : Support mural auquel on suspend des objets
+- Dithyrambique : Qui ressemble à un dithyrambe, un poème fort élogieux, encore plus violent dans l’éloge que l’ode
+- Différentialisme : Postulat philosophique selon lequel il existerait une différence de nature entre les membres de différents groupes (homme et femme, blanc et noir…) et que ces différences devraient être pris en compte dans l’établissement du système. S’oppose à l’universalisme.
+- Universalisme : Postulat philosophique selon lequel il existerait une vérité ou une morale applicable à tous les êtres humains indépendamment de leur provenance
+- Contrition : État de celui qui est contrit, qui est plein de regrets pour ses péchés
+- Urbanité : Politesse que donne l’usage du monde
+- Salafisme : Mouvement de « retour aux sources » de l’Islam
+- Gastrostomie : Alimentation via un tube flexible directement implanté dans l’estomac
+- Escarre : Plaie cutanée résultant d’une mauvaise irrigation sanguine
+- PMA : La procréation médicalement assisté consiste à manipuler un spermatozoïde ou un ovule afin de favoriser une grossesse (cela peut être in vivo, in vitro…)
+- GPA : La gestation par autrui consiste à faire porter son enfant par une mère porteuse
+- Byzantin (péjoratif) : Subtil à l’excès, compliqué inutilement
+- Conurbation : Grand ensemble urbain formé par plusieurs villes rapprochées
+- Arthrite : Terme générique désignant plus d’une centaine de maladies affectant les articulations (dont l’arthrose)
+- Turgescence : Gonflement du à une rétention de sang
+- Erre : Vitesse résiduelle d’un navire sur lequel n’agit plus le propulseur
+- Changer de braquet : Changer de vitesse en vélo
+- Ânonner : S’exprimer en hésitant
+- Hobereau : Homme de petite noblesse vivant à la campagne
+- Lucre : Profit tiré d’une activité quelconque
+- Exigu : D’une dimension insuffisante
+- Échevelé : Qui a les cheveux en désordre
+- Hâlé : Être légèrement bronzé
+- Spécisme : Idéologie postulant une hiérarchie entre les espèces
+- Acquêt : Bien acquis durant la vie conjugale du couple faisant parti des biens communs (par opposition aux biens propres)
+- Sémillant : D’une vivacité pétillante et gaie
+- Sémiologie : Étude des signes
+- Sibyllin : Mystérieux et obscur, dont le sens est caché
+- Dispendieux : Qui nécessite de grosses dépenses
+- Replet : Qui est un peu gros
+- Canule : Tube permettant à faire passer de l’air ou un liquide à travers un orifice (médical)
+- Métastase : Processus par lequel des cellules cancéreuses se détachent d’une tumeur primitive afin de créer de nouvelles tumeurs ailleurs (voie de propagation d’un cancer)
+- Tellurique : Qui est relatif à la tête (au sens géologique du terme)
+- Népotisme : Abuser de son influence en faveur de sa famille ou de ses amis
+- Légitimisme : Mouvement politique pour la restauration de la royauté en faveur des Capétiens (famille Bourbon)
+- Contremaître : Chef d’une équipe d’ouvrier
+- Prote : Contremaître dans un atelier d’imprimerie
+- La Terreur : Période de violence extrême contre les nobles entre 1793 et 1794
+- La Restauration : 1815 - 1830, retour de la monarchie en France suite à l’effondrement de l’empire napoléonien
+- Chaland : Client de passage dans un magasin de détail
+- Léonin : Propre au lion. Par analogie, arrangement inégal entre deux parties.
+- Timon : Longue pièce de bois permettant d’atteler des animaux de traits à un véhicule
+- Conscription : Réquisition obligatoire par un État d’une partie de sa population pour servir ses forces armées
+- La Convention : Assemblée élue ayant gouvernée la France de 1792 à 1795
+- Maître Jacques : Employé ayant diverses fonctions (par allusion au personnage dans la pièce de Molière)
+- Constitution civile du clergé : Décret de 1790 demandant au clergé de prêter allégeance à l’État plutôt qu’au Pape
+- Clergé constitutionnel (Jureur) : Qui, sous la Révolution, avait prêté serment à la constitution civile du clergé
+- Clergé réfractaire : Qui, sous la Révolution, a refusé en bloc la constitution civile du clergé
+- Casse : Boîte divisée en compartiment servant à organiser les caractères d’imprimerie (les majuscules en haut, les minuscules en bas)
+- Brevet d’imprimeur : Sous l’Ancien Régime et jusqu’au XIX, il y avait un système de brevet réglementant l’imprimerie. Chaque ville se voyait attribuer un nombre de brevet que les imprimeurs devaient acheter pour exercer leurs fonctions. Un imprimeur pouvait parfois acheter tous les brevets se retrouvant ainsi en situation de monopole.
+- Ancien Régime : Période historique de monarchie absolue correspondant au règne de la maison des Bourbons depuis l’accession au trône d’Henri IV en 1589 et prenant fin lors de la Révolution en 1789
+- Gibbosité : Difformité causée par une déviation de l’épine dorsale ou une saillie anormale de la cage thoracique
+- Purpurin : Proche de la couleur du pourpre
+- Panaché : Orné d’un panache
+- Panache : Assemblage de plumes servant d’ornement
+- Ceindre : Du latin cingere, ceindre, entourer
+- Tricorne : Le chapeau des pirates
+- Chiné : Textile au motif aléatoire formé par la juxtaposition aléatoire de deux couleurs différentes
+- Abdication : Renoncer à une charge importante. Au sens vieilli le terme désigne aussi l’acte par lequel un père prive son fils de ses droits de succession
+- Appentis : Petite construction (souvent en bois) ajoutée à un bâtiment existant prenant appuis sur un mur extérieur. C’est comme un appendice où le livre serait un bâtiment existant.
+- Ballot : Ensemble de marchandise maintenue par des cordes en forme de cylindre
+- Serge : Tissu caractérisé par des lignes obliques
+- Oblique : Qui n’est ni horizontal, ni vertical à une ligne ou plan de référence
+- Diagonal : Ligne oblique reliant deux sommets d’une figure géométrique
+- Basane : Peau de mouton préparé par tannage végétal
+- Maquignon : Marchand de chevaux
+- Jésuitique : Propre aux jésuites (péjoratif) souvent considéré comme manipulateur et hypocrite
+- Incurie : Absence de soucis de soi ou d’autrui
+- Apostolique : Relatif aux apôtres
+- Épitaphe : Inscription funéraire sur la tombe de quelqu’un
+- Roideur : Ancienne forme de « raideur »
+- Passage à vide : Relâchement, perte momentanée de la volonté au cours d’une action
+- Séparatisme : Volonté d’un groupe d’individus unis par un caractère et/ou une zone géographique commune de se détacher d’un groupe plus large (comme les québécois au Canada)
